@@ -1,0 +1,30 @@
+body{
+    background-image:url(mus.avif);
+    color: white;
+    
+    background-attachment: local;
+   
+}
+
+h1
+{
+    text-transform: uppercase;
+}
+
+
+.font{
+    font-family: 'Times New Roman';
+}
+#outer{
+    font-size: 20px;
+}
+#inner{
+    font-size: 40px;
+}
+.hi{
+    width: 1000px;
+    height: 100px;
+    background-color: green;
+    box-sizing:50%;
+    border:2px solid black;
+}

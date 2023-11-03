@@ -1,0 +1,8 @@
+a:hover{
+    color: aqua;
+    text-decoration: line-through;
+}
+h1{
+    text-transform: uppercase;
+    outline: 3px outed;
+}

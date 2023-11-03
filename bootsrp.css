@@ -1,0 +1,38 @@
+#container {
+    border-width: 100px;
+    width: 20%;
+    overflow: hidden;
+    border-right: 100px;
+    border: 5px solid aquamarine;
+
+}
+#container #imagee{
+    right: 100px;
+    left: 20px;
+    position: relative;}
+
+.col-md-4 p, .col-md-8 ul {
+    color: #333;
+}
+hr {
+    border-top: 1px solid #ccc;
+    margin-top: 1.5rem;
+    margin-bottom: 1.5rem;
+}
+.img-fluid {
+    max-width: 100%;
+    height: auto;
+    border: 3px solid #fff;
+    border-radius: 50%;
+}
+
+.row {
+    margin-top: 20px;
+}
+a {
+    color: #007bff;
+    text-decoration: none;
+}
+a:hover {
+    color: #0056b3;
+}
